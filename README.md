@@ -17,6 +17,8 @@ Future ideas are:
 * Iciness analysis of micrographs
 * Filter out graphene reflections
 * Make a-posteriori gain refs
+* Code for teaching examples for tomography
+* Extract layer lines from 2D classes
 
 
 ## Name
