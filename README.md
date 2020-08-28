@@ -19,6 +19,8 @@ Future ideas are:
 * Make a-posteriori gain refs
 * Code for teaching examples for tomography
 * Extract layer lines from 2D classes
+* Spherical averaging
+* Power spectra
 
 
 ## Name
